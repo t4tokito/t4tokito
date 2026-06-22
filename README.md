@@ -9,5 +9,6 @@ Projects:
 - Portfolio Website
 
 Links:
-- Portfolio: your-site
-- Instagram: @t4tokito
+- Portfolio: [tokito-dev](https://tokito-dev.netlify.app/)
+- Instagram: [@t4tokito](https://www.instagram.com/t4tokito/)
+- X: [@t4tokito](https://x.com/t4tokito)
