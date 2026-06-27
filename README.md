@@ -2,7 +2,7 @@
 
 Web Developer
 App Developer
-Building AI-powered products
+Building AI-powered product
 
 Links:
 - Portfolio: [tokito-dev](https://tokito-dev.netlify.app/)
